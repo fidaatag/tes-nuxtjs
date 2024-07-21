@@ -1,0 +1,1 @@
+## Trial Nuxt Js - Tailwind
